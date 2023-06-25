@@ -1,0 +1,38 @@
+* {
+    padding: 0;
+    margin: 0;
+    
+}
+
+.text {
+    text-align: center;
+}
+
+
+.tasks {
+   margin-left: 20px;
+   margin-right: 20px;
+   padding: 20px;
+  
+}
+
+.item {
+    text-align: center;
+}
+
+.table {
+    margin-left: 20px;
+    margin-right: 20px;
+    padding: 20px;
+}
+
+.image__container img {
+    width:  50px;
+}
+
+td {
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+    border-left: 1px solid black;
+    border-right: 1px solid black
+}
