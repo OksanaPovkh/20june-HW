@@ -1,0 +1,32 @@
+* {
+    padding: 0;
+    margin: 0;
+    
+    
+}
+
+h3 {
+   
+    font-size: 3em;
+    text-align: center;
+}
+
+.image__container img {
+    width:  350px;
+}
+
+.tasks {
+    margin: 20px auto;
+    padding: 5px;
+    background-color: 20px solid white;
+    border: 1px solid black;
+    border-radius: 30px;
+    color: black;
+    padding-left: 15%;
+
+    
+    
+    
+    
+
+}
